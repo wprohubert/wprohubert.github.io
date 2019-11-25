@@ -615,24 +615,7 @@
                 Irish</a>, and <a href="http://nimbupani.com/">Divya Manian</a>.</p>
     </footer>
     <script>
-        // let footer = document.getElementsByClassName('site-footer')[0];
-        let options = {
-            root: null,
-            rootMargin: '0px',
-            threshold: 1.0
-        }
-        let observer = new IntersectionObserver(lazy, options);
-        let parent = document.getElementById('whodat');
-
-        function lazy(entries) {
-            entries.forEach(element => {
-                if (element.isIntersecting) {
-                    console.log('slick tho');
-                    $('.slickidy').slick();
-                }
-            });
-        }
-        observer.observe(parent);
+        $('.slickidy').slick();
     </script><iframe scrolling="no" frameborder="0" allowtransparency="true"
         src="https://platform.twitter.com/widgets/widget_iframe.18ff99b5096ff173368df1a320e00cbf.html?origin=https%3A%2F%2Fhtml5boilerplate.com"
         title="Twitter settings iframe" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no"
