@@ -1,0 +1,11 @@
+Keyword;Position;Search Volume;Url
+clarks shoes;23;301000;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/Clarks,/brand,/692/cat.html
+champion shoes;47;246000;https://www.overstock.com/Clothing-Shoes/Mens-Shoes/Champion,/brand,/657/cat.html
+shoes for women;94;246000;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/692/cat.html
+fila shoes;39;246000;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/Fila,/brand,/692/cat.html
+nike shoes for women;44;246000;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/Nike,/brand,/692/cat.html
+shoes for men;24;246000;https://www.overstock.com/Clothing-Shoes/Mens-Shoes/657/cat.html
+nike shoes for men;51;201000;https://www.overstock.com/Clothing-Shoes/Mens-Shoes/Nike,/brand,/657/cat.html
+adidas womens shoes;38;165000;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/Adidas,/brand,/692/cat.html
+off white shoes;60;135000;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/Off_-White,/color,/692/cat.html
+vionic shoes;31;135000;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/Vionic,/brand,/692/cat.html
