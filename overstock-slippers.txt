@@ -9,3 +9,4 @@ womens house slippers;36;14800;https://www.overstock.com/Clothing-Shoes/Womens-S
 minnetonka slippers;41;14800;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/Minnetonka,/brand,/692/cat.html
 men's slippers;50;12100;https://www.overstock.com/Clothing-Shoes/Mens-Slippers/22276/subcat.html
 mens house slippers;20;12100;https://www.overstock.com/Clothing-Shoes/Mens-Slippers/22276/subcat.html
+slippers;800;50;https://www.overstock.com/fake-slippers.html
