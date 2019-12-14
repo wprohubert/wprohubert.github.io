@@ -1,0 +1,11 @@
+Keyword;Position;Search Volume;Url
+vans shoes;49;450000;https://www.walmart.com/c/kp/vans-shoes
+gucci shoes;35;368000;https://www.walmart.com/browse/clothing/shoes/gucci/5438_1045804/YnJhbmQ6R3VjY2kie
+clarks shoes;61;301000;https://www.walmart.com/c/brand/clarks-all-men-s-shoes
+balenciaga shoes;26;301000;https://www.walmart.com/browse/clothing/shoes/balenciaga/5438_1045804/YnJhbmQ6QmFsZW5jaWFnYQieie
+champion shoes;20;246000;https://www.walmart.com/browse/clothing/shoes/champion/5438_1045804/YnJhbmQ6Q2hhbXBpb24ie
+basketball shoes;52;246000;https://www.walmart.com/c/kp/men-s-basketball-shoes
+shoes for women;29;246000;https://www.walmart.com/browse/clothing/womens-shoes/5438_1045804_1045806
+fila shoes;38;246000;https://www.walmart.com/browse/clothing/womens-shoes/fila/5438_1045804_1045806/YnJhbmQ6RmlsYQieie
+nike shoes for women;39;246000;https://www.walmart.com/c/kp/nike-shoes-for-women
+dsw womens shoes;70;201000;https://www.walmart.com/cp/gift-cards/96894

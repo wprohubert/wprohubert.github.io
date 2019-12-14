@@ -1,0 +1,11 @@
+Keyword;Position;Search Volume;Url
+ugg slippers;25;301000;https://www.walmart.com/browse/clothing/womens-slippers/ugg/5438_1045804_1045806_1816473/YnJhbmQ6VUdH
+slippers;20;90500;https://www.walmart.com/browse/clothing/womens-slippers/5438_1045804_1045806_1816473
+mens slippers;11;74000;https://www.walmart.com/browse/clothing/mens-slippers/5438_1045804_1045807_8820449
+womens slippers;20;74000;https://www.walmart.com/browse/clothing/womens-slippers/5438_1045804_1045806_1816473
+wizard of oz red slippers;46;74000;https://www.walmart.com/ip/Ruby-Slippers/40439297
+mens ugg slippers;19;60500;https://www.walmart.com/c/kp/men-s-ugg-slippers
+vionic slippers;21;22200;https://www.walmart.com/ip/Vionic-by-Orthaheel-Adilyn-Orthotic-Slippers/179894564
+isotoner slippers;8;18100;https://www.walmart.com/c/kp/isotoner-slippers
+muk luks slippers;7;14800;https://www.walmart.com/c/kp/muk-luk-slippers
+dearfoam slippers;8;14800;https://www.walmart.com/browse/clothing/womens-slippers/dearfoams/5438_1045804_1045806_1816473/YnJhbmQ6RGVhcmZvYW1z
