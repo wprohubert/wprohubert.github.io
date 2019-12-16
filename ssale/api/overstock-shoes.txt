@@ -9,5 +9,5 @@ nike shoes for men;51;201000;https://www.overstock.com/Clothing-Shoes/Mens-Shoes
 adidas womens shoes;38;165000;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/Adidas,/brand,/692/cat.html
 off white shoes;60;135000;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/Off_-White,/color,/692/cat.html
 vionic shoes;31;135000;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/Vionic,/brand,/692/cat.html
-shoes;80;75000;https://www.overstock.com/slippers.html
+shoes;80;75000;https://www.overstock.com/shoes.html
 
