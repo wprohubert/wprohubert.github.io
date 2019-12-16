@@ -1,0 +1,11 @@
+Keyword;Position;Search Volume;Url
+mens sneakers;52;74000;https://www.overstock.com/Clothing-Shoes/Mens-Slippers/22276/subcat.html
+womens sneakers;38;74000;https://www.overstock.com/Clothing-Shoes/Womens-Slippers/23214/subcat.html
+isotoner sneakers;30;18100;https://www.overstock.com/Clothing-Shoes/Slippers/Isotoner,/brand,/1757/subcat.html
+muk luks sneakers;19;14800;https://www.overstock.com/Clothing-Shoes/Slippers-Socks-Hosiery/Muk-Luks,/brand,/672/cat.html
+ugg sneakers sale;38;14800;https://www.overstock.com/Clothing-Shoes/Boots/UGG,/brand,/2747/subcat.html
+dearfoam sneakers;30;14800;https://www.overstock.com/Clothing-Shoes/Womens-Slippers/Dearfoams,/brand,/23214/subcat.html
+womens house sneakers;36;14800;https://www.overstock.com/Clothing-Shoes/Womens-Slippers/23214/subcat.html
+minnetonka sneakers;41;14800;https://www.overstock.com/Clothing-Shoes/Womens-Shoes/Minnetonka,/brand,/692/cat.html
+men's sneakers;50;12100;https://www.overstock.com/Clothing-Shoes/Mens-Slippers/22276/subcat.html
+mens house sneakers;20;12100;https://www.overstock.com/Clothing-Shoes/Mens-Slippers/22276/subcat.html

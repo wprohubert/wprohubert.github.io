@@ -1,0 +1,11 @@
+Keyword;Position;Search Volume;Url
+ugg sneakers;25;301000;https://www.walmart.com/browse/clothing/womens-sneakers/ugg/5438_1045804_1045806_1816473/YnJhbmQ6VUdH
+sneakers;20;90500;https://www.walmart.com/browse/clothing/womens-sneakers/5438_1045804_1045806_1816473
+mens sneakers;11;74000;https://www.walmart.com/browse/clothing/mens-sneakers/5438_1045804_1045807_8820449
+womens sneakers;20;74000;https://www.walmart.com/browse/clothing/womens-sneakers/5438_1045804_1045806_1816473
+wizard of oz red sneakers;46;74000;https://www.walmart.com/ip/Ruby-Slippers/40439297
+mens ugg sneakers;19;60500;https://www.walmart.com/c/kp/men-s-ugg-sneakers
+vionic sneakers;21;22200;https://www.walmart.com/ip/Vionic-by-Orthaheel-Adilyn-Orthotic-Slippers/179894564
+isotoner sneakers;8;18100;https://www.walmart.com/c/kp/isotoner-sneakers
+muk luks sneakers;7;14800;https://www.walmart.com/c/kp/muk-luk-sneakers
+dearfoam sneakers;8;14800;https://www.walmart.com/browse/clothing/womens-sneakers/dearfoams/5438_1045804_1045806_1816473/YnJhbmQ6RGVhcmZvYW1z

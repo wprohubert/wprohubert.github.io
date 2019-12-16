@@ -1,0 +1,11 @@
+Keyword;Position;Search Volume;Url
+sneakers;14;1500000;https://www.amazon.com/womens-sneakers/b?ie=UTF8&node=679337011
+nike sneakers;52;1000000;https://www.amazon.com/NIKE-Air-Force-Mens-Trainers/dp/B00UBN6G0O
+adidas sneakers;33;550000;https://www.amazon.com/slp/white-adidas-sneakers/xeug88cp8trcudq
+vans sneakers;24;450000;https://www.amazon.com/Shoes-Vans-Men/s?rh=n%3A679255011%2Cp_89%3AVans
+payless sneakers;5;368000;https://www.amazon.com/Shoes-Women/s?me=A3SXDQG5D00ZU8&rh=n%3A679337011
+gucci sneakers;18;368000;https://www.amazon.com/Gucci-Shoes-Men/s?k=Gucci&rh=n%3A679255011
+clarks sneakers;20;301000;https://www.amazon.com/Shoes-CLARKS-Men/s?rh=n%3A679255011%2Cp_89%3ACLARKS
+balenciaga sneakers;7;301000;https://www.amazon.com/slp/Balenciaga-Shoes/3vamntrubtsm5ud
+jordan sneakers;13;301000;https://www.amazon.com/slp/michael-jordan-sneakers/7v5cz5h3o55yovd
+champion sneakers;14;246000;https://www.amazon.com/slp/Champion-Shoes/8ffbxfod5o6f6qk
