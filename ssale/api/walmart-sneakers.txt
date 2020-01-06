@@ -1,6 +1,6 @@
 Keyword;Position;Search Volume;Url
 ugg sneakers;25;301000;https://www.walmart.com/browse/clothing/womens-sneakers/ugg/5438_1045804_1045806_1816473/YnJhbmQ6VUdH
-sneakers;20;90500;https://www.walmart.com/browse/clothing/womens-sneakers/5438_1045804_1045806_1816473
+sneakers;20;2400000;https://www.walmart.com/browse/clothing/womens-sneakers/5438_1045804_1045806_1816473
 mens sneakers;11;74000;https://www.walmart.com/browse/clothing/mens-sneakers/5438_1045804_1045807_8820449
 womens sneakers;20;74000;https://www.walmart.com/browse/clothing/womens-sneakers/5438_1045804_1045806_1816473
 wizard of oz red sneakers;46;74000;https://www.walmart.com/ip/Ruby-Slippers/40439297

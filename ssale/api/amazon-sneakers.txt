@@ -1,5 +1,5 @@
 Keyword;Position;Search Volume;Url
-sneakers;14;1500000;https://www.amazon.com/womens-sneakers/b?ie=UTF8&node=679337011
+sneakers;14;2400000;https://www.amazon.com/womens-sneakers/b?ie=UTF8&node=679337011
 nike sneakers;52;1000000;https://www.amazon.com/NIKE-Air-Force-Mens-Trainers/dp/B00UBN6G0O
 adidas sneakers;33;550000;https://www.amazon.com/slp/white-adidas-sneakers/xeug88cp8trcudq
 vans sneakers;24;450000;https://www.amazon.com/Shoes-Vans-Men/s?rh=n%3A679255011%2Cp_89%3AVans

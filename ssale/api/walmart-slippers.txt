@@ -1,6 +1,6 @@
 Keyword;Position;Search Volume;Url
 ugg slippers;25;301000;https://www.walmart.com/browse/clothing/womens-slippers/ugg/5438_1045804_1045806_1816473/YnJhbmQ6VUdH
-slippers;20;90500;https://www.walmart.com/browse/clothing/womens-slippers/5438_1045804_1045806_1816473
+slippers;20;74000;https://www.walmart.com/browse/clothing/womens-slippers/5438_1045804_1045806_1816473
 mens slippers;11;74000;https://www.walmart.com/browse/clothing/mens-slippers/5438_1045804_1045807_8820449
 womens slippers;20;74000;https://www.walmart.com/browse/clothing/womens-slippers/5438_1045804_1045806_1816473
 wizard of oz red slippers;46;74000;https://www.walmart.com/ip/Ruby-Slippers/40439297
