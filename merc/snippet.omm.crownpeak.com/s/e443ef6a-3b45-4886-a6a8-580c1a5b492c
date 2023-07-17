@@ -1,0 +1,8 @@
+(function(){
+var h="<script type=\"text\/javascript\">\u000avar maxmind_country = 'US' ;\u000avar maxmind_state = 'CA' ;\u000avar maxmind_zip = '91731'  ;\u000a\u000a<\/script>\u000a";
+var r=document.referrer;
+var f=function(s){return s+(s?"?":"?screen="+screen.width+"x"+screen.height+"&")+(r?"referrer="+encodeURIComponent(r):"")};
+document.write(r?h.replace(/tracking\.omm\.crownpeak\.com\/\w+/gi,f):h);
+var v=f("");
+if(v.length>1)document.write("<sc"+"ript type='text/javasc"+"ript' src='//snippet.omm.crownpeak.com/r/5afca24b-43e2-45dd-8e83-d0c464dbd68d"+v+"'></sc"+"ript>");
+})();
