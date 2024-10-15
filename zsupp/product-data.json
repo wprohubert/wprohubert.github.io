@@ -1,0 +1,119 @@
+{
+  "product": {
+    "id": 7710825480353,
+    "title": "ADIDAS | CLASSIC BACKPACK | LEGEND INK MULTICOLOUR",
+    "body_html": "The adidas BP Classic Cap features a pre-curved brim to keep your face shaded, while a hook-and-loop adjustable closure provides a comfortable fit. With a 3-Stripes design and reflective accents. The perfect piece to top off any outfit.",
+    "vendor": "ADIDAS",
+    "product_type": "ACCESSORIES",
+    "created_at": "2023-06-05T13:22:24-04:00",
+    "handle": "adidas-classic-backpack-legend-ink-multicolour",
+    "updated_at": "2024-10-14T20:13:16-04:00",
+    "published_at": "2023-06-05T13:22:24-04:00",
+    "template_suffix": null,
+    "published_scope": "web",
+    "tags": "adidas, backpack, egnition-sample-data, Low Stock",
+    "variants": [
+      {
+        "id": 43052113854625,
+        "product_id": 7710825480353,
+        "title": "OS / blue",
+        "price": "50.00",
+        "sku": "AD-04\r\n-blue-OS",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "OS",
+        "option2": "blue",
+        "option3": null,
+        "created_at": "2023-06-05T13:22:24-04:00",
+        "updated_at": "2024-10-14T20:13:16-04:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 0,
+        "image_id": null,
+        "weight": 0,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "USD",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 9839653585057,
+        "product_id": 7710825480353,
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "OS"
+        ]
+      },
+      {
+        "id": 9839653617825,
+        "product_id": 7710825480353,
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "blue"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 37190750077089,
+        "product_id": 7710825480353,
+        "position": 1,
+        "created_at": "2023-06-05T13:22:24-04:00",
+        "updated_at": "2023-06-05T13:22:24-04:00",
+        "alt": null,
+        "width": 635,
+        "height": 560,
+        "src": "https://cdn.shopify.com/s/files/1/0498/5195/7409/products/8072c8b5718306d4be25aac21836ce16.jpg?v=1685985744",
+        "variant_ids": []
+      },
+      {
+        "id": 37190750109857,
+        "product_id": 7710825480353,
+        "position": 2,
+        "created_at": "2023-06-05T13:22:24-04:00",
+        "updated_at": "2023-06-05T13:22:24-04:00",
+        "alt": null,
+        "width": 635,
+        "height": 560,
+        "src": "https://cdn.shopify.com/s/files/1/0498/5195/7409/products/32b3863554f4686d825d9da18a24cfc6.jpg?v=1685985744",
+        "variant_ids": []
+      },
+      {
+        "id": 37190750142625,
+        "product_id": 7710825480353,
+        "position": 3,
+        "created_at": "2023-06-05T13:22:24-04:00",
+        "updated_at": "2023-06-05T13:22:24-04:00",
+        "alt": null,
+        "width": 635,
+        "height": 560,
+        "src": "https://cdn.shopify.com/s/files/1/0498/5195/7409/products/044f848776141f1024eae6c610a28d12.jpg?v=1685985744",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 37190750077089,
+      "product_id": 7710825480353,
+      "position": 1,
+      "created_at": "2023-06-05T13:22:24-04:00",
+      "updated_at": "2023-06-05T13:22:24-04:00",
+      "alt": null,
+      "width": 635,
+      "height": 560,
+      "src": "https://cdn.shopify.com/s/files/1/0498/5195/7409/products/8072c8b5718306d4be25aac21836ce16.jpg?v=1685985744",
+      "variant_ids": []
+    }
+  }
+}
